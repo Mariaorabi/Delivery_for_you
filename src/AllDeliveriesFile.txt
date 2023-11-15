@@ -1,0 +1,14 @@
+Normal 1 haifa akko 100 15
+Express 1 tel-aviv osfya 105 55
+Express 1 eilat haifa 110 55
+Express 2 majd-lkrom yaka 115 5
+Express 8 haifa shfaamr 125 10
+Short 2 1 haifa osfya 130 Fri Jan 07 12:32:31 IST 2022 5 100.0
+Short 2 1 haifa tel-aviv 135 Fri Jan 07 12:32:31 IST 2022 5 80.0
+Short 2 1 haifa tel-aviv 140 Fri Jan 07 12:32:31 IST 2022 3 3.0
+Short 2 1 haifa osfya 145 Sat Jan 08 12:32:31 IST 2022 2 2.0
+Short 2 1 eilat tel-aviv 150 Sat Jan 08 12:32:31 IST 2022 11 192.0
+Short 2 2 haifa akko 170 Sat Jan 08 12:32:31 IST 2022 1 1.0
+Short 2 2 haifa osfya 175 Sat Jan 01 12:32:31 IST 2022 1 1.0
+Short 2 2 ras-ali tel-aviv 180 Sat Jan 01 12:32:31 IST 2022 1 111.0
+Short 2 2 tel-aviv haifa 185 Sat Jan 01 12:32:31 IST 2022 22 333.0
