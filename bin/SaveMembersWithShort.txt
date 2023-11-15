@@ -1,0 +1,11 @@
+mere orabi 1 05487898 north
+1 haifa osfya 130 Fri Jan 07 12:32:31 IST 2022 5 100.0
+1 haifa tel-aviv 135 Fri Jan 07 12:32:31 IST 2022 5 80.0
+1 haifa tel-aviv 140 Fri Jan 07 12:32:31 IST 2022 3 3.0
+1 haifa osfya 145 Sat Jan 08 12:32:31 IST 2022 2 2.0
+1 eilat tel-aviv 150 Sat Jan 08 12:32:31 IST 2022 11 192.0
+siwar abo 2 05468788 north
+2 haifa akko 170 Sat Jan 08 12:32:31 IST 2022 1 1.0
+2 haifa osfya 175 Sat Jan 01 12:32:31 IST 2022 1 1.0
+2 ras-ali tel-aviv 180 Sat Jan 01 12:32:31 IST 2022 1 111.0
+2 tel-aviv haifa 185 Sat Jan 01 12:32:31 IST 2022 22 333.0

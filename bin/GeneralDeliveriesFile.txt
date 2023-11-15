@@ -1,0 +1,5 @@
+Normal 1 1 haifa akko 100 15
+Express 1 1 tel-aviv osfya 105 55
+Express 1 1 eilat haifa 110 55
+Express 1 2 majd-lkrom yaka 115 5
+Express 1 8 haifa shfaamr 125 10
