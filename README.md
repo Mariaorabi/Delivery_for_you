@@ -47,6 +47,7 @@ The main system consists of an array of managers, each responsible for subscribe
 
 4. **Form for Adding Short Shipment:**
    - Allows the addition of a short shipment.
+
 ![image](https://github.com/Mariaorabi/Delivery_for_you/assets/143322072/d54f1253-129c-4bea-8fdf-2ef777fc60ad)
 
 ### Main Screen
