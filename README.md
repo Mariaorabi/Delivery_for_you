@@ -32,6 +32,7 @@ The main system consists of an array of managers, each responsible for subscribe
       - Displaying all short deliveries within a JTable.
       - Displaying details of all subscribers who ordered short delivery within a TextArea.
       - Listing all cities to which a short shipment was sent in the last 30 days.
+
 ![image](https://github.com/Mariaorabi/Delivery_for_you/assets/143322072/636a25c2-d3ce-4d24-af1e-17bd5d9bbd66)
 
 ### Vice Administration
