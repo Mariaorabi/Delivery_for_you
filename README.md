@@ -50,7 +50,7 @@ The main system consists of an array of managers, each responsible for subscribe
 - **Finishing Button:**
    - Finishes and exits the system.
 
-## Database Class
+## Database 
 
 The `Database` class is a service class containing static values and includes:
 
@@ -61,6 +61,39 @@ The `Database` class is a service class containing static values and includes:
    - Value: The corresponding delivery.
 4. `ourMembersAndDeliveries1` - TreeMap containing the current value of `countTree` with customer names.
 5. `ourMembersAndDeliveries2` - TreeMap containing the current value of `countTree` with shipments of the same customer.
+
+# DeliveryForYou
+
+
+## How to Run
+
+To run the code, follow these steps:
+
+1. **Download the Code:**
+   - Clone or download the project ZIP file from the repository.
+
+2. **Extract the ZIP:**
+   - Extract the contents of the ZIP file to your preferred location.
+
+3. **Open in Eclipse:**
+   - Open Eclipse IDE.
+
+4. **Import Project:**
+   - Go to `File` > `Import`.
+   - Select `General` > `Existing Projects into Workspace`.
+   - Choose the extracted project folder as the root directory.
+   - Click `Finish`.
+
+5. **Build and Run:**
+   - Once the project is imported, right-click on the project in the `Project Explorer`.
+   - Select `Build Project` to compile the code.
+   - After building, right-click on the main class file.
+   - Choose `Run As` > `Java Application`.
+
+6. **GUI Display:**
+   - The GUI for "DeliveryForYou" should now be displayed.
+
+**Note:** Ensure you have Eclipse IDE and Java Development Kit (JDK) installed on your system.
 
 
 
