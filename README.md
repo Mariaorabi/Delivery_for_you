@@ -1,4 +1,6 @@
 # DeliveryForYou
+![image](https://github.com/Mariaorabi/Delivery_for_you/assets/143322072/e95268ed-79a4-4380-b95f-c8c66c718b69)
+
 
 DeliveryForYou is a prototype for the "Shipping for You" company implemented in Java. The system manages deliveries, including regular deliveries, express deliveries, and business deliveries. The system comprises members, each with their details, residential area (north, center, or south), and an array of deliveries of various types.
 
