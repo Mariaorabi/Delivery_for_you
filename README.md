@@ -14,7 +14,7 @@ The main system consists of an array of managers, each responsible for subscribe
    - Includes a button to save subscribers who ordered short deliveries along with delivery details in a text file.
 
 2. **Add VICE Manager:**
-   - Enables the addition of a VICE manager to the system.
+   - Enables the addition of a vice manager to the system.
 
 3. **Retrieve Deliveries by Customer Code:**
    - Retrieves all regular and short deliveries of a customer using their code.
